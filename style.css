@@ -1,0 +1,35 @@
+body{
+    background-color: #f5d9d5 ;
+    font-family: 'Nunito', sans-serif;
+}
+
+#nav a{
+    font-weight: 100;
+    font-size: 1.5rem;
+    color: white;
+}
+#nav a:hover{
+    color: #ea1c2c;
+}
+#nav .navbar-brand:first-of-type{
+    color: #ea1c2c;
+}
+.weight h2{
+    font-weight: 100;
+}
+.centerimg{
+    display:block;
+    margin: 0 auto;
+}
+.weight-light{
+    font-weight: 200;
+}
+.light-pink{
+    color: #f498b8;
+    line-height: 2;
+    font-size: 1.125rem;
+}
+.scrolled{
+    background-color: #dec0de;
+    transition: background-color 500ms;
+}
